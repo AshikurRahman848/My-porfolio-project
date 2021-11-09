@@ -1,0 +1,50 @@
+html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    background: #3f456e;
+    font-family: Georgia, serif;
+  }
+ 
+  .m-heading {
+    font-family: "Roboto Slab", serif;
+  }
+  
+  .nav{
+    width: 100%;
+    position: fixed;
+  }
+  
+  .navigation-link {
+    border: 2px solid transparent;
+  }
+  
+.bitto{
+    width: 300px;
+    margin-top: 40px;
+    clip-path :circle()
+}
+.main-container {
+    height: 80vh;
+  }
+
+.table{
+    margin-bottom: 30px;
+}
+
+/* Social Media Section */
+#social-media {
+    background: #313555;
+  }
+  
+  /* Add color to Social Media Links */
+  .media_link {
+    padding: 1rem;
+    max-width: 15rem;
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+    border: 2px solid #94e610;
+    border-radius: 0.5rem;
+  }
+ 
